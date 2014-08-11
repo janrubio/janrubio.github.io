@@ -1,0 +1,49 @@
+body,
+.pagination-item {
+    font-family: "freight-sans-pro";
+}
+
+code,
+pre {
+    font-family: "source-code-pro";
+    font-size: .75rem;
+}
+
+.masthead {
+    margin-bottom: 2rem;
+}
+
+.masthead--icons {
+    float: right;
+}
+
+.masthead--icons > a {
+    margin-left: 8px;
+}
+
+.masthead--icons > a:hover {
+    color: #0088ce;
+}
+
+.footer {
+    margin-bottom: 2.5rem;
+    margin-top: 2rem;
+}
+
+.post .post-title,
+.post h2,
+.related h2 {
+    font-family: "ff-tisa-web-pro";
+}
+
+.post .post-date {
+    font-family: "ff-tisa-web-pro";
+    font-style: italic;
+    margin-bottom: 2rem;
+    margin-top: .5rem;
+}
+
+.post h2 {
+    margin-bottom: 2rem;
+    margin-top: 5rem;
+}

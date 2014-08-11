@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        /explains/:title
+
+# Setup
+title:            Jan Rubio
+tagline:
+url:              http://janrub.io
+paginate:         5
+baseurl:          /
+author:
+  name:           Jan Rubio
+  url:            https://twitter.com/jan_rubio
+
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/janrubio/janrubio.github.io
+
+excerpt_separator: "<!--more-->"
