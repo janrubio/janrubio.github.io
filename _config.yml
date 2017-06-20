@@ -8,7 +8,7 @@ permalink:        /explains/:title
 # Setup
 title:            Jan Rubio
 tagline:
-url:              http://janrub.io
+url:              http://janrubio.com
 paginate:         5
 baseurl:          /
 author:
